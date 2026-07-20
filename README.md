@@ -7,7 +7,7 @@ Student at Chulalongkorn university
 I started learning on computer programming and creating website this year and I found a passion on Front -End developing👩‍💻 , UX/UI designing✍️ and Data science📊. I want to learn more about it and gain experience from working 💼. In the future I want to create new innovation or developing the innovation that already have for people to have the better life better experience 📈.
 
 * 🌍  I'm based in Bangkok , Thailand
-* ✉️  You can contact me at [chanuwanzaa@gmail.com](mailto:chanuwanzaa@gmail.com)
+* ✉️  You can contact me at [chanuwanzaa@gmail.com](mailto:chanunchitasuphachan@gmail.com)
 * 🧠  I'm learning Full stack development, AI, design etc.
 
 ### Skills
